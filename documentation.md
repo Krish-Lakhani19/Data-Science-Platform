@@ -8,18 +8,18 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Architecture](#architecture)
-3. [Installation & Setup](#installation--setup)
-4. [Core Features](#core-features)
-5. [API Reference](#api-reference)
-6. [Data Processing Pipeline](#data-processing-pipeline)
-7. [Machine Learning Models](#machine-learning-models)
-8. [Advanced Features](#advanced-features)
-9. [Performance Optimization](#performance-optimization)
-10. [Security Considerations](#security-considerations)
-11. [Troubleshooting](#troubleshooting)
-12. [Best Practices](#best-practices)
+1. [Introduction]
+2. [Architecture]
+3. [Installation & Setup]
+4. [Core Features]
+5. [API Reference]
+6. [Data Processing Pipeline]
+7. [Machine Learning Models]
+8. [Advanced Features]
+9. [Performance Optimization]
+10. [Security Considerations]
+11. [Troubleshooting]
+12. [Best Practices]
 
 ---
 
