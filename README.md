@@ -342,7 +342,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For issues and questions:
 - Open an issue on GitHub
 - Email: krishlakhani46767@gmail.com
-- Documentation: [docs.datascienceuniverse.com][(https://docs.datascienceuniverse.com)](https://github.com/Krish-Lakhani19/Data-Science-Platform/blob/main/documentation.md)
+- Documentation: [Documentation](https://github.com/Krish-Lakhani19/Data-Science-Platform/blob/main/documentation.md)
 
 ---
 
