@@ -6,8 +6,6 @@
 
 **A comprehensive, all-in-one Data Science and Machine Learning platform with everything you need for complete data analysis.**
 
-![DataScience Universe](https://via.placeholder.com/800x400/1f2937/3b82f6?text=DataScience+Universe+Platform)
-
 ---
 
 ## 🌟 Features
@@ -162,7 +160,8 @@ The app will automatically open at `http://localhost:3000`
 ## 📁 Project Structure
 
 ```
-datascience-universe/
+Data-Science-Platform/
+├── datascience-universe/
 ├── node_modules/          # Dependencies
 ├── public/
 │   ├── index.html         # HTML template
@@ -283,18 +282,6 @@ feature1,feature2,target
 3.0,4.2,20
 ```
 
-### Excel Files
-- .xlsx (Excel 2007+)
-- .xls (Excel 97-2003)
-
-### JSON Files
-```json
-[
-  {"feature1": 1.0, "feature2": 2.5, "target": 10},
-  {"feature1": 2.0, "feature2": 3.1, "target": 15}
-]
-```
-
 ---
 
 ## 🎨 Customization
@@ -354,7 +341,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues and questions:
 - Open an issue on GitHub
-- Email: support@datascienceuniverse.com
+- Email: krishlakhani46767@gmail.com
 - Documentation: [docs.datascienceuniverse.com](https://docs.datascienceuniverse.com)
 
 ---
