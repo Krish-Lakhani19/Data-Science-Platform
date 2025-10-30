@@ -58,15 +58,12 @@ npx create-react-app .
 npm install recharts papaparse lucide-react
 ```
 
-4. **Replace App.js**
-- Copy the platform code to `src/App.js`
-
-5. **Start Development Server**
+4. **Start Development Server**
 ```bash
 npm start
 ```
 
-6. **Open Browser**
+5. **Open Browser**
 - Navigate to `http://localhost:3000`
 
 ---
@@ -135,19 +132,7 @@ npm install recharts papaparse lucide-react
 npm list recharts papaparse lucide-react
 ```
 
-### Step 5: Add Platform Code
-
-1. **Open VS Code:**
-```bash
-code .
-```
-
-2. **Navigate to `src/App.js`**
-3. **Delete existing content**
-4. **Paste the DataScience Platform code**
-5. **Save file** (Cmd + S)
-
-### Step 6: Start the Application
+### Step 5: Start the Application
 
 ```bash
 npm start
