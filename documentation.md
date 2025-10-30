@@ -883,4 +883,3 @@ onClick={handleClick}    // Good
 - Use latest browser version
 - Enable hardware acceleration
 - Close unused tabs
--
