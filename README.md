@@ -1,4 +1,4 @@
-# 🧠 DataScience Universe Platform v3.0
+# 🧠 DataScience Universe Platform 
 
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
